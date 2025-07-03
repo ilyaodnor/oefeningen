@@ -117,14 +117,5 @@
 // console.log(isMagicSquare(matrix4));
 // console.log(isMagicSquare(matrix5));
 //
-//Words on letter counter
-let words = ['efzd', 'asdzc', 'xcvasd', 'asdadxcv', 'esfxd']
-function  lettersCounter(text){
-    let wordsDict = {}
-    for (i = 0; i < text.length; i++){
-        if(words[i][0] in wordsDict){
 
-        }
-    }
-}
 
